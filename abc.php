@@ -1,3 +1,4 @@
+seassignment
 <?php
 session_start();
 $campusID=$_SESSION['campusID'];
