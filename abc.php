@@ -454,23 +454,10 @@ while($row2=mysqli_fetch_array($r2))
 </div>
 </div>
 
-<!-- Fee Detail  -->
-
-
-
 
 <h3>Total Fee: <?php echo $totalfee; ?></h3>
 <!--Use this region to calculate fee of this specific student after showing fund on top of this
 region -->
-
-
-
-
-
-<!--------------------------------------------------------------------->
-
-
-
 
     
 
